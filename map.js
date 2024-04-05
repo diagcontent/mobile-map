@@ -2,8 +2,8 @@
 
 
 // Set up the SVG dimensions
-const width = 240;
-const height = 150;
+const width = 312;
+const height = 195;
 
 const SUPPORTER_STATE = "#0B125A";
 const NO_SUPPORTER_STATE = "#5588BE";
